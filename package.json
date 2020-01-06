@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "@admin/utils": "file:./src/utils",
-    "@hapi/boom": "^7.4.2",
+    "@hapi/boom": "^9.0.0",
     "@hapi/joi": "^15.0.3",
     "@sentry/node": "^5.1.0",
     "config": "^3.1.0",
