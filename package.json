@@ -54,7 +54,7 @@
     "koa": "^2.11.0",
     "koa-bodyparser": "^4.2.1",
     "koa-logger": "^2.0.1",
-    "koa-router": "^7.4.0",
+    "koa-router": "^8.0.7",
     "path": "^0.12.7",
     "pg": "^7.10.0",
     "pg-hstore": "^2.3.2",
