@@ -52,7 +52,7 @@
     "eslint-plugin-standard": "^4.0.1",
     "fs": "0.0.1-security",
     "koa": "^2.11.0",
-    "koa-bodyparser": "^4.2.1",
+    "koa-bodyparser": "^4.3.0",
     "koa-logger": "^3.2.1",
     "koa-router": "^8.0.8",
     "path": "^0.12.7",
