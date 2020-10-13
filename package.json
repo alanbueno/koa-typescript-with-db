@@ -39,7 +39,7 @@
     "@admin/utils": "file:./src/utils",
     "@hapi/boom": "^9.1.0",
     "@hapi/joi": "^17.1.1",
-    "@sentry/node": "^5.22.3",
+    "@sentry/node": "^5.25.0",
     "config": "^3.3.2",
     "eslint": "^5.16.0",
     "eslint-config-prettier": "^6.11.0",
